@@ -1,0 +1,6 @@
+5
+Uncle;Gary Johnson;4
+Aunt;Betty White;2
+Grandma;Mary Sue;3
+Mother-in-law;Luan Smith;6
+Friend;Juan Ricardo;3 

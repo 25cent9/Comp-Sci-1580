@@ -1,0 +1,2 @@
+Number of guests: 18
+Number of turkey required for the party is: 6
